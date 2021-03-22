@@ -2,8 +2,8 @@
 // @name           mangaupdates releases filter
 // @namespace      mangaupdates releases filter (https://github.com/MichaelRLee/Fixed-mangaupdates-series-releases-filter)
 // @description    Adds filters on the mangaupdates release page for series on your Reading, Wish, Completed, Unfinsihed, or On Hold list
-// @include        http*://www.mangaupdates.com/releases.html*
-// @version        1.1
+// @include        https*://www.mangaupdates.com/releases.html*
+// @version        1.2
 // @downloadURL    https://github.com/MichaelRLee/Fixed-mangaupdates-series-releases-filter/raw/main/mangaupdates_releases_filter.user.js
 // @updateURL      https://github.com/MichaelRLee/Fixed-mangaupdates-series-releases-filter/raw/main/mangaupdates_releases_filter.user.js
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
