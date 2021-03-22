@@ -13,7 +13,7 @@ You'll need to insall a userscript add-on, such as Violentmonkey or Tampermonkey
 - Chrome/Chromium -> [Violent monkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - Opera -> [Violent monkey](https://addons.opera.com/en/extensions/details/violent-monkey/)
 
-Once you can install userscripts, you can add the series release filter by [click here](https://github.com/MichaelRLee/Fixed-mangaupdates-series-releases-filter/raw/main/mangaupdates_releases_filter.user.js)
+Next, [click here to install](https://github.com/MichaelRLee/Fixed-mangaupdates-series-releases-filter/raw/main/mangaupdates_releases_filter.user.js)
 
 
 ### Future improvements
